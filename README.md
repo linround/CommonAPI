@@ -9,3 +9,7 @@
 - npm init --scope=@linround
 - npm adduser
 - npm publish --access public
+
+
+## 注意事项
+- 发布时记得更改 package.json 中的版本号,不要重复发布相同的版本
