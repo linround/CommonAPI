@@ -1,6 +1,6 @@
 {
   "name": "@linround/commonapi",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "本项目主要用于NPM包的实践记录，以及一些常用的API的使用记录。",
   "main": "index.js",
   "scripts": {
