@@ -4,7 +4,7 @@
 
 创建npm包的教程：https://docs.npmjs.com/creating-and-publishing-scoped-public-packages
 
-当前包简要过程如下：
+发布新包简要过程如下：
 
 - npm init --scope=@linround
 - npm adduser
