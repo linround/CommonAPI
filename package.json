@@ -1,0 +1,19 @@
+{
+  "name": "@linround/commonapi",
+  "version": "1.0.0",
+  "description": "本项目主要用于NPM包的实践记录，以及一些常用的API的使用记录。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linround/CommonAPI.git"
+  },
+  "author": "linround",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linround/CommonAPI/issues"
+  },
+  "homepage": "https://github.com/linround/CommonAPI#readme"
+}
