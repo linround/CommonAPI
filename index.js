@@ -6,11 +6,12 @@ export async function getRecords() {
 }
 
 export async function addRecords() {
+  const timePoint = (new Date()).toString()
   const url = '/monitoring/add'
   const data = {
     category:'visit',
     sourceSite:location.host,
-    timePoint:Date.now(),
+    timePoint,
   }
   return fetch(`${baseUrl}${url}`,{
     method:POST,
